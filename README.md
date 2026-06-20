@@ -15,7 +15,7 @@ Mantengo una actitud de aprendizaje continuo y he fortalecido tanto mis habilida
 
 ## Proyectos
 
-### Curriculum Vitae Web Personal
+### Web Personal: Curriculum Vitae
 Desarrollo de un sitio web tipo portafolio y currículum vitae digital utilizando HTML y CSS. El proyecto presenta información personal, formación académica, habilidades técnicas, proyectos realizados, testimonios, medios de contacto y contenido multimedia mediante una interfaz moderna y adaptable a distintos dispositivos.
 
 **Tecnologías utilizadas:**
@@ -89,5 +89,6 @@ Aplicación desarrollada en JavaFX que presenta un ranking musical Top 10 median
 * Ciberseguridad
 
 ## Contacto
-    **Correo:** miguel.ags1576@gmail.com
-    **LinkedIn:** [miguelgalarzasolis](https://www.linkedin.com/in/miguelgalarzasolis/)
+**Correo:** miguel.ags1576@gmail.com  
+**LinkedIn:** [miguelgalarzasolis](https://www.linkedin.com/in/miguelgalarzasolis/)  
+
